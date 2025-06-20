@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "68553d3a9bd19d70a1544ad7"
+  },
+  "nom": "Adonis",
+  "email": "adonis@mail.com",
+  "motDePasse": "$2b$10$OCpEFrf6hQDVZZhzjetS4e.cYauQcstMlOGulCAKDVKmZLIBYNAwi",
+  "dateInscription": {
+    "$date": "2025-06-20T10:51:38.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68553dd09bd19d70a1544adb"
+  },
+  "nom": "Utilisateur2",
+  "email": "utilisateur2@mail.com",
+  "motDePasse": "$2b$10$U7XQYBw.9.FTUznTmrV3we4nhNoUTSN4mcjBaufKFbnZP/Mh.VnbO",
+  "dateInscription": {
+    "$date": "2025-06-20T10:54:08.850Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68553e0f9bd19d70a1544adf"
+  },
+  "nom": "Utilisateur3",
+  "email": "utilisateur3@mail.com",
+  "motDePasse": "$2b$10$igcrse3FLZLRywri9hkkvOKPLqTOcPdV11SReaqueO1s5Z/1X/N52",
+  "dateInscription": {
+    "$date": "2025-06-20T10:55:11.160Z"
+  },
+  "__v": 0
+}]
